@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwagbotemi
-- 👀 I’m interested in Phthon, SQL, and software engineering
+- 👀 I’m interested in Python, SQL, and software engineering
 - 🌱 I’m currently learning at PLP Academy
 - 💞️ I’m looking to collaborate on coding and database query
 - 📫 How to reach me ...
